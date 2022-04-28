@@ -55,7 +55,7 @@ let questions = [
     choice2: '1',
     choice3: '2',
     choice4: '3',
-    answer:3,
+    answer:4,
    },
 {
     question: "What Netflix show had the most streaming views in 2021?",
@@ -80,14 +80,6 @@ let questions = [
        choice3: 'China',
        choice4: 'Switzerland',
        answer:1,
-},
-{
-    question: "In what country would you find Mount Kilimanjaro?",
-       choice1: 'Argentina',
-       choice2: 'Mexico',
-       choice3: 'Tanzania',
-       choice4: 'Indonesia',
-       answer:3,
 },
 {
     question: "What company was initially know as Blue Ribbon Sports?",
