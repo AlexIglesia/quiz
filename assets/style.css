@@ -138,3 +138,12 @@ input::placeholder{
     font-size: 2rem;
     color: rgb(28, 26, 26)
 }
+
+span {
+    font-size: 5.4rem;
+    transition: all 0.5s ease;    
+}
+
+span.fade {
+    color: rgb(247, 124, 239);
+}
