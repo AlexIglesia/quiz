@@ -20,9 +20,11 @@ let questions = [
        answer:3,
     },
    {
-    question: "Which language has the more native speakers: English or Spanish?",
+    question: "Which language has the more native speakers?",
     choice1: 'English',
     choice2: 'Spanish',
+    choice3: 'French',
+    choice4: 'Chinese',
     answer:2,
    },
    {
